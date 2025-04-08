@@ -21,6 +21,10 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://www.eliasempresasbot.github.io/eula.html</loc>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://eliasempresasbot.github.io/politica-de-privacidade.html</loc>
         <priority>0.4</priority>
     </url>
