@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>index.html</loc>
+        <loc>https://eliasempresas.com/index.html</loc>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>suporte.html</loc>
+        <loc>https://eliasempresas.com/suporte.html</loc>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>mapa.html</loc>
+        <loc>https://eliasempresas.com/mapa.html</loc>
         <priority>0.7</priority>
     </url>
-          <loc>politica-de-privacidade.html</loc>
+    <url>
+        <loc>https://eliasempresas.com/servidor/index.html</loc>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://eliasempresas.com/servidor/loja.html</loc>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://eliasempresas.com/politica-de-privacidade.html</loc>
         <priority>0.4</priority>
     </url>
     <url>
-        <loc>termos-de-uso.html</loc>
+        <loc>https://eliasempresas.com/termos-de-uso.html</loc>
         <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://eliasempresas.com/podcast/index.html</loc>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://eliasempresas.com/podcast/episodio1.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://eliasempresas.com/podcast/episdio2.html</loc>
+        <priority>0.8</priority>
     </url>
 </urlset>
