@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://eliasempresas.rf.gd/index.html</loc>
+        <loc>https://eliasempresasbot.github.io/index.html</loc>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://eliasempresas.rf.gd/suporte.html</loc>
+        <loc>https://eliasempresasbot.github.io/suporte.html</loc>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://eliasempresas.rf.gd/mapa.html</loc>
+        <loc>https://eliasempresasbot.github.io/mapa.html</loc>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://eliasempresas.rf.gd/servidor/index.html</loc>
+        <loc>https://eliasempresasbot.github.io/servidor/index.html</loc>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://eliasempresas.rf.gd/servidor/loja.html</loc>
+        <loc>https://eliasempresasbot.github.io/servidor/loja.html</loc>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://eliasempresas.rf.gd/politica-de-privacidade.html</loc>
+        <loc>https://eliasempresasbot.github.io/politica-de-privacidade.html</loc>
         <priority>0.4</priority>
     </url>
     <url>
@@ -29,31 +29,31 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://eliasempresas.rf.gd/podcast/index.html</loc>
+        <loc>https://eliasempresasbot.github.io/podcast/index.html</loc>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://eliasempresas.rf.gd/podcast/episodio1.html</loc>
+        <loc>https://eliasempresasbot.github.io/podcast/episodio1.html</loc>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://eliasempresas.rf.gd/podcast/episodio1.html</loc>
+        <loc>https://eliasempresasbot.github.io/podcast/episodio1.html</loc>
         <priority>0.8</priority>
         <video:video>
-            <video:thumbnail_loc>https://arquivos.eliasempresas.rf.gd/arquivos/imagens/LOGO DAS ELIAS EMPRESAS(1,9-1).png</video:thumbnail_loc>
+            <video:thumbnail_loc>https://arquivos.eliasempresasbot.github.io/arquivos/arquivos/imagens/LOGO DAS ELIAS EMPRESAS(1,9-1).png</video:thumbnail_loc>
             <video:title>O que é as Elias Empresas</video:title>
             <video:description>Explicamos o que são as Elias Empresas neste episódio especial.</video:description>
-            <video:content_loc>https://arquivos.eliasempresas.rf.gd/arquivos/videos/O que é as Elias Empresas.mp4</video:content_loc>
+            <video:content_loc>https://arquivos.eliasempresasbot.github.io/arquivos/arquivos/videos/O que é as Elias Empresas.mp4</video:content_loc>
         </video:video>
     </url>
     <url>
-        <loc>https://eliasempresas.rf.gd/podcast/episdio2.html</loc>
+        <loc>https://eliasempresasbot.github.io/podcast/episdio2.html</loc>
         <priority>0.8</priority>
         <video:video>
-            <video:thumbnail_loc>https://arquivos.eliasempresas.rf.gd/arquivos/imagens/LOGO DAS ELIAS EMPRESAS(1,9-1).png</video:thumbnail_loc>
+            <video:thumbnail_loc>https://arquivos.eliasempresasbot.github.io/arquivos/arquivos/imagens/LOGO DAS ELIAS EMPRESAS(1,9-1).png</video:thumbnail_loc>
             <video:title>Música oficial das Elias Empresas</video:title>
             <video:description>Conheça a música oficial das Elias Empresas.</video:description>
-            <video:content_loc>https://arquivos.eliasempresas.rf.gd/arquivos/videos/Música oficial das Elias Empresas.mp4</video:content_loc>
+            <video:content_loc>https://eliasempresasbot.github.io/arquivos/arquivos/videos/Música oficial das Elias Empresas.mp4</video:content_loc>
         </video:video>
     </url>
 </urlset>
