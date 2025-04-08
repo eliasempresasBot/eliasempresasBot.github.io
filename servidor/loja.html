@@ -1,0 +1,64 @@
+<!-- /servidor/loja/index.html -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Loja do Servidor - Elias Empresas</title>
+  <link rel="icon" type="image/png" href="https://arquivos.eliasempresas.com/ARQUIVOS/IMAGENS/LOGO%20DAS%20ELIAS%20EMPRESAS%20(1-1).png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f7f7f7; }
+    h1 { text-align: center; color: #333; }
+    .produto {
+      background: #fff; border-radius: 10px; padding: 20px; margin: 20px auto;
+      max-width: 500px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;
+    }
+    .qr { margin: 10px 0; }
+    .pix-info, .pix-copia {
+      margin-top: 10px; font-size: 0.9em; color: #444;
+      background: #eee; padding: 10px; border-radius: 8px;
+      word-wrap: break-word;
+    }
+    .copy-button {
+      margin-top: 5px; background: #007bff; color: white;
+      border: none; padding: 8px 12px; border-radius: 5px; cursor: pointer;
+    }
+    .login-bar {
+      background: #222; color: white; padding: 10px 20px;
+      text-align: right;
+    }
+    .login-bar a {
+      color: #fff; text-decoration: none; background: #007bff;
+      padding: 8px 14px; border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="login-bar">
+    <a href="https://id.eliasempresas.com/autorizacao/servidor">Entrar com sua conta</a>
+  </div>
+
+  <h1>Loja do Servidor Elias Empresas</h1>
+
+  <!-- Produto: VIP Ouro -->
+  <div class="produto">
+    <h2>VIP Ouro - R$ 10,00</h2>
+    <p>Benefícios: /kit ouro, nome colorido e vantagens.</p>
+    <img class="qr" src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=00020126360014BR.GOV.BCB.PIX0118eliasempresas0@gmail.com520400005303986540410.005802BR5920EliasEmpresas Ltda6009Sao Paulo62100506vip171730">
+    <div class="pix-info">QR Dinâmico PIX</div>
+    <div class="pix-copia" id="pix1">00020126360014BR.GOV.BCB.PIX0118eliasempresas0@gmail.com520400005303986540410.005802BR5920EliasEmpresas Ltda6009Sao Paulo62100506vip171730</div>
+    <button class="copy-button" onclick="copyToClipboard('pix1')">Copiar Código PIX</button>
+  </div>
+
+  <!-- Adicione outros produtos da mesma forma -->
+
+  <script>
+    function copyToClipboard(id) {
+      const text = document.getElementById(id).innerText;
+      navigator.clipboard.writeText(text).then(() => {
+        alert('Código PIX copiado!');
+      });
+    }
+  </script>
+</body>
+</html>
